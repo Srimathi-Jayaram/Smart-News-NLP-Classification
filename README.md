@@ -37,5 +37,18 @@ A Streamlit-based web application that classifies news headlines into predefined
 | **HuggingFace** | Runs classification pipeline in real-time    |
 
 ---
+## 📸 Screenshots
+
+### 🧪 Classifier Tab
+![Classifier Tab](screenshots/News.png)
+
+### 🧠 SHAP Explanation
+![SHAP Explanation](screenshots/shap_explanation.png)
+
+### 🌍 RSS Feed Results
+![RSS Results](screenshots/Live News feed.png)
+
+### ☁️ Word Cloud
+![Word Cloud](screenshots/wordcloud.png)
 
 
