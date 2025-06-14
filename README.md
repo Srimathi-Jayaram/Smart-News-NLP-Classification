@@ -40,15 +40,16 @@ A Streamlit-based web application that classifies news headlines into predefined
 ## 📸 Screenshots
 
 ### 🧪 Classifier Tab
-![Classifier Tab](screenshots/News.png)
+![Classifier Tab](assests/classifier_tab.png)
 
 ### 🧠 SHAP Explanation
-![SHAP Explanation](screenshots/shap_explanation.png)
+![SHAP Explanation](assests/Shap_Explanation.png)
 
-### 🌍 RSS Feed Results
-![RSS Results](screenshots/Live News feed.png)
+### 🌍 LIVE news feed 
+![RSS results](assests/rss_result.png)
 
 ### ☁️ Word Cloud
-![Word Cloud](screenshots/wordcloud.png)
+![Word Cloud](assets/wordcloud.png)
+
 
 
