@@ -43,7 +43,7 @@ A Streamlit-based web application that classifies news headlines into predefined
 ![Classifier Tab](assests/classifier_tab.png)
 
 ### 🧠 SHAP Explanation
-![SHAP Explanation](assests/Shap_Explanation.png)
+![SHAP Explanation](assests/Shap_Explanation.png.jpeg)
 
 ### 🌍 LIVE news feed 
 ![RSS results](assests/rss_result.png)
